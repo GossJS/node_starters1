@@ -5,4 +5,4 @@ for an intro lecture on modules and node and etc
 
 без: https://kodaktor.ru/node_starters1.zip 
 
-предварительный репозиторий: https://github.com/GossJS/node_starters1
+предварительный репозиторий: https://github.com/GossJS/node_starters0
